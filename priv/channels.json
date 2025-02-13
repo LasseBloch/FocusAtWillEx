@@ -1,0 +1,702 @@
+[
+    {
+        "id": 3154,
+        "artistName": "",
+        "artistSiteUrl": "",
+        "description": "Nostalgic, ambient jungle. Old school meets new school. Exclusive new channel.",
+        "name": "Jambient Jungle",
+        "energyLevelLabels": [
+            "Slower",
+            "Classic",
+            "Xtra"
+        ],
+        "fadeIn": 2800,
+        "fadeOut": 2000,
+        "fadeOverlap": 2300,
+        "isWip": false,
+        "artistImageUrl": "https://cdn-images.focusatwill.com/channel_icons/default_artist.svg",
+        "backgroundImageUrl": "https://cdn-images.focusatwill.com/channel_icons/production/3154/2b6e5446-d70d-4cbf-9ae9-e9703c72d61f.png",
+        "desktopBackgroundImageUrl": "https://cdn-images.focusatwill.com/channel_icons/production/3154/ab8fe884-8b33-429c-a639-d34c1adeb8ff.png",
+        "iconUrl": "https://cdn-images.focusatwill.com/channel_icons/default_channel.svg"
+    },
+    {
+        "id": 2113,
+        "artistName": null,
+        "artistSiteUrl": null,
+        "description": "Alpha Chill • Deep, luscious downtempo beats. Find your flow on demand for sustained creativity.",
+        "name": "The Deep",
+        "energyLevelLabels": [
+            "Cool",
+            "Warm",
+            "Hot"
+        ],
+        "fadeIn": 3500,
+        "fadeOut": 3500,
+        "fadeOverlap": 2500,
+        "isWip": false,
+        "artistImageUrl": "https://cdn-images.focusatwill.com/channel_icons/default_artist.svg",
+        "backgroundImageUrl": "https://cdn-images.focusatwill.com/channel_icons/staging/2113/b0bac650-2bcb-4b76-bead-aaa13fb26e0a.jpg",
+        "desktopBackgroundImageUrl": "https://cdn-images.focusatwill.com/channel_icons/staging/2113/77daecd7-d421-4307-a221-17a367f339d7.jpg",
+        "iconUrl": "https://cdn-images.focusatwill.com/channel_icons/staging/2113/1919a93c-8026-40a9-8e20-cfde3edb323c.svg"
+    },
+    {
+        "id": 3104,
+        "artistName": "",
+        "artistSiteUrl": "",
+        "description": "Lo Fi • Foot tapping lounge tunes for getting stuff done at your own speed.",
+        "name": "Chinchilla",
+        "energyLevelLabels": [
+            "Chillier",
+            "Chiller",
+            "Chill"
+        ],
+        "fadeIn": 5647,
+        "fadeOut": 5647,
+        "fadeOverlap": 5000,
+        "isWip": false,
+        "artistImageUrl": "https://cdn-images.focusatwill.com/channel_icons/default_artist.svg",
+        "backgroundImageUrl": "https://cdn-images.focusatwill.com/channel_icons/production/3104/0bddf910-130e-4840-8552-5ffcd691b091.jpg",
+        "desktopBackgroundImageUrl": "https://cdn-images.focusatwill.com/channel_icons/production/3104/15cd6b13-f7a3-452b-be47-48161436fc70.jpg",
+        "iconUrl": "https://cdn-images.focusatwill.com/channel_icons/default_channel.svg"
+    },
+    {
+        "id": 2093,
+        "artistName": null,
+        "artistSiteUrl": null,
+        "description": "Uptempo EDM • Infectious, energetic, dance-floor beats to keep you engaged.",
+        "name": "The Drop",
+        "energyLevelLabels": [
+            "Chill",
+            "Mellow",
+            "Sizzle"
+        ],
+        "fadeIn": 2800,
+        "fadeOut": 2000,
+        "fadeOverlap": 1700,
+        "isWip": false,
+        "artistImageUrl": "https://cdn-images.focusatwill.com/channel_icons/default_artist.svg",
+        "backgroundImageUrl": "https://cdn-images.focusatwill.com/channel_icons/staging/2093/08f594a4-7c90-4bfe-b389-725ede5de14e.jpg",
+        "desktopBackgroundImageUrl": "https://cdn-images.focusatwill.com/channel_icons/staging/2093/ac60c322-613c-4e44-b899-e65a54ee2fb3.jpg",
+        "iconUrl": "https://cdn-images.focusatwill.com/channel_icons/staging/2093/9b233d55-ee03-4706-ba6b-725d12355650.svg"
+    },
+    {
+        "id": 3144,
+        "artistName": "",
+        "artistSiteUrl": "",
+        "description": "Hypnotic Exploration • Celestial beats for deep daily creativity.",
+        "name": "Deep Space",
+        "energyLevelLabels": [
+            "Earth",
+            "Mars",
+            "Jupiter"
+        ],
+        "fadeIn": 3000,
+        "fadeOut": 3000,
+        "fadeOverlap": 3500,
+        "isWip": false,
+        "artistImageUrl": "https://cdn-images.focusatwill.com/channel_icons/default_artist.svg",
+        "backgroundImageUrl": "https://cdn-images.focusatwill.com/channel_icons/production/3144/1a0692d3-53a3-4b4a-8b06-e93f08e2259c.png",
+        "desktopBackgroundImageUrl": "https://cdn-images.focusatwill.com/channel_icons/production/3144/d2461941-5f77-4344-b3a5-eebe8d1cfb95.png",
+        "iconUrl": "https://cdn-images.focusatwill.com/channel_icons/default_channel.svg"
+    },
+    {
+        "id": 2033,
+        "artistName": null,
+        "artistSiteUrl": null,
+        "description": "Classical Plus • Custom mastered orchestral music for improved focus.",
+        "name": "Symphonica",
+        "energyLevelLabels": [
+            "Less",
+            "Medium",
+            "More"
+        ],
+        "fadeIn": 3000,
+        "fadeOut": 3500,
+        "fadeOverlap": 2800,
+        "isWip": false,
+        "artistImageUrl": "https://cdn-images.focusatwill.com/channel_icons/default_artist.svg",
+        "backgroundImageUrl": "https://cdn-images.focusatwill.com/channel_icons/staging/2033/e0a66072-8a82-4ebb-afab-bbca87b68d7a.jpg",
+        "desktopBackgroundImageUrl": "https://cdn-images.focusatwill.com/channel_icons/staging/2033/e72b41b1-228a-4e8b-8dfa-06f11cb462cf.jpg",
+        "iconUrl": "https://cdn-images.focusatwill.com/channel_icons/staging/2033/899b68f1-a012-40f0-a795-0751d99f579c.svg"
+    },
+    {
+        "id": 2073,
+        "artistName": null,
+        "artistSiteUrl": null,
+        "description": "Focus Spa • Esoteric, mystical, and calming soundscapes for an ambient experience.",
+        "name": "Tranquility",
+        "energyLevelLabels": [
+            "peace",
+            "calm",
+            "motion"
+        ],
+        "fadeIn": 4000,
+        "fadeOut": 4000,
+        "fadeOverlap": 2500,
+        "isWip": false,
+        "artistImageUrl": "https://cdn-images.focusatwill.com/channel_icons/default_artist.svg",
+        "backgroundImageUrl": "https://cdn-images.focusatwill.com/channel_icons/staging/2073/f9c71626-b0aa-47f3-b967-4f462dfa300e.jpg",
+        "desktopBackgroundImageUrl": "https://cdn-images.focusatwill.com/channel_icons/staging/2073/2e32b2cc-db2c-47c8-864d-1490cac9db36.jpg",
+        "iconUrl": "https://cdn-images.focusatwill.com/channel_icons/staging/2073/337f11f1-b5e5-415a-af8c-4f19990137a0.svg"
+    },
+    {
+        "id": 2053,
+        "artistName": null,
+        "artistSiteUrl": null,
+        "description": "Acoustical, organic • Natural, solo performances on guitar and piano by humans.",
+        "name": "Organica",
+        "energyLevelLabels": [
+            "low",
+            "medium",
+            "high"
+        ],
+        "fadeIn": 2000,
+        "fadeOut": 2000,
+        "fadeOverlap": 1500,
+        "isWip": false,
+        "artistImageUrl": "https://cdn-images.focusatwill.com/channel_icons/default_artist.svg",
+        "backgroundImageUrl": "https://cdn-images.focusatwill.com/channel_icons/staging/2053/17e41736-a223-492f-9242-6e54cc0f4c54.jpg",
+        "desktopBackgroundImageUrl": "https://cdn-images.focusatwill.com/channel_icons/staging/2053/7d7d30c7-1cf2-4f83-855d-3847a5b05b7d.jpg",
+        "iconUrl": "https://cdn-images.focusatwill.com/channel_icons/staging/2053/cd6a4084-80d6-41f8-a4b2-6e67b47b6665.svg"
+    },
+    {
+        "id": 2203,
+        "artistName": null,
+        "artistSiteUrl": null,
+        "description": "ADHD, ADD • Industrial, glitch. Intense, noisy EDM channel scientifically proven to help.",
+        "name": "PowerTool",
+        "energyLevelLabels": [
+            "low",
+            "medium",
+            "high"
+        ],
+        "fadeIn": 3000,
+        "fadeOut": 3000,
+        "fadeOverlap": 2000,
+        "isWip": false,
+        "artistImageUrl": "https://cdn-images.focusatwill.com/channel_icons/default_artist.svg",
+        "backgroundImageUrl": "https://cdn-images.focusatwill.com/channel_icons/staging/2203/9113f5e5-f8a8-4bee-8ea4-bf8da69d0170.jpg",
+        "desktopBackgroundImageUrl": "https://cdn-images.focusatwill.com/channel_icons/staging/2203/22f5fdea-c148-4480-864a-27a2c77f95d1.jpg",
+        "iconUrl": "https://cdn-images.focusatwill.com/channel_icons/staging/2203/a1e43498-4d5e-4b7d-886a-a6304ddfd6b7.svg"
+    },
+    {
+        "id": 2183,
+        "artistName": null,
+        "artistSiteUrl": null,
+        "description": "Baroque Piano • 17th century Bach on a modern piano tuned for focus.",
+        "name": "The Duke",
+        "energyLevelLabels": [
+            "study",
+            "reception",
+            "banquet"
+        ],
+        "fadeIn": 1000,
+        "fadeOut": 3000,
+        "fadeOverlap": 1900,
+        "isWip": false,
+        "artistImageUrl": "https://cdn-images.focusatwill.com/channel_icons/default_artist.svg",
+        "backgroundImageUrl": "https://cdn-images.focusatwill.com/channel_icons/staging/2183/8c55207c-d6c9-47d0-9470-954d3fa61bcb.jpg",
+        "desktopBackgroundImageUrl": "https://cdn-images.focusatwill.com/channel_icons/staging/2183/4ab899b7-f8ab-4754-b895-e30dcb86a0cb.jpg",
+        "iconUrl": "https://cdn-images.focusatwill.com/channel_icons/staging/2183/9d969b73-75a4-431e-adf7-ad731a4afdad.svg"
+    },
+    {
+        "id": 2043,
+        "artistName": null,
+        "artistSiteUrl": null,
+        "description": "Electro Bach • Preludes, fugues and DJ beats. 1720s chamber strings meet 2020s electronica.",
+        "name": "Bach Beats",
+        "energyLevelLabels": [
+            "less",
+            "medium",
+            "more"
+        ],
+        "fadeIn": 1000,
+        "fadeOut": 5000,
+        "fadeOverlap": 3000,
+        "isWip": false,
+        "artistImageUrl": "https://cdn-images.focusatwill.com/channel_icons/default_artist.svg",
+        "backgroundImageUrl": "https://cdn-images.focusatwill.com/channel_icons/staging/2043/790863fe-2aaf-489b-80e9-74ee3c486e88.jpg",
+        "desktopBackgroundImageUrl": "https://cdn-images.focusatwill.com/channel_icons/staging/2043/e4b518cc-01e0-4182-921a-271290bb49dd.jpg",
+        "iconUrl": "https://cdn-images.focusatwill.com/channel_icons/staging/2043/f1854f00-e36d-40aa-a43a-fbde8edad520.svg"
+    },
+    {
+        "id": 2133,
+        "artistName": null,
+        "artistSiteUrl": null,
+        "description": "Classical Piano • Custom engineered, remastered and re-edited for focus.",
+        "name": "Edwardian",
+        "energyLevelLabels": [
+            "study",
+            "library",
+            "foyer"
+        ],
+        "fadeIn": 2600,
+        "fadeOut": 2600,
+        "fadeOverlap": 1600,
+        "isWip": false,
+        "artistImageUrl": "https://cdn-images.focusatwill.com/channel_icons/staging/2133/55ebbd16-3f65-41c1-a753-9386898e1987.jpg",
+        "backgroundImageUrl": "https://cdn-images.focusatwill.com/channel_icons/staging/2133/1032a65b-8855-4df9-b3e4-d1901d2973e7.jpg",
+        "desktopBackgroundImageUrl": "https://cdn-images.focusatwill.com/channel_icons/staging/2133/5a82e674-44dd-4248-8a9e-24c3fabdce69.jpg",
+        "iconUrl": "https://cdn-images.focusatwill.com/channel_icons/staging/2133/03de22f5-d6a3-472d-bab4-1b770eec0ec6.svg"
+    },
+    {
+        "id": 2163,
+        "artistName": null,
+        "artistSiteUrl": null,
+        "description": "Ambient, soundscapes • Peaceful, mellow, and subtle hypnotic spaces.",
+        "name": "Atmosphere",
+        "energyLevelLabels": [
+            "ease",
+            "flow",
+            "motion"
+        ],
+        "fadeIn": 4000,
+        "fadeOut": 4000,
+        "fadeOverlap": 2500,
+        "isWip": false,
+        "artistImageUrl": "https://cdn-images.focusatwill.com/channel_icons/default_artist.svg",
+        "backgroundImageUrl": "https://cdn-images.focusatwill.com/channel_icons/staging/2163/281accf4-1433-4912-a8e4-11610f27041e.jpg",
+        "desktopBackgroundImageUrl": "https://cdn-images.focusatwill.com/channel_icons/staging/2163/db49a6d3-53da-459c-84d1-1ee65d670240.jpg",
+        "iconUrl": "https://cdn-images.focusatwill.com/channel_icons/staging/2163/91fae0a0-0aec-473a-8cb9-51c21e49f336.svg"
+    },
+    {
+        "id": 2173,
+        "artistName": null,
+        "artistSiteUrl": null,
+        "description": "Water, nature • Meditative soundscapes featuring rain, waves, streams, and more.",
+        "name": "Aquascope",
+        "energyLevelLabels": [
+            "less",
+            "medium",
+            "more"
+        ],
+        "fadeIn": 8000,
+        "fadeOut": 8000,
+        "fadeOverlap": 7900,
+        "isWip": false,
+        "artistImageUrl": "https://cdn-images.focusatwill.com/channel_icons/default_artist.svg",
+        "backgroundImageUrl": "https://cdn-images.focusatwill.com/channel_icons/staging/2173/a7451611-3675-437e-846a-71eab7d5cf6c.jpg",
+        "desktopBackgroundImageUrl": "https://cdn-images.focusatwill.com/channel_icons/staging/2173/7ee24bcb-9fac-48d0-b952-01670727a5ac.jpg",
+        "iconUrl": "https://cdn-images.focusatwill.com/channel_icons/staging/2173/271bef09-45b4-4517-85e9-ed76064b0475.svg"
+    },
+    {
+        "id": 2153,
+        "artistName": null,
+        "artistSiteUrl": null,
+        "description": "Classical, orchestral • Emotionally connecting and highly evocative.",
+        "name": "Cinematic",
+        "energyLevelLabels": [
+            "Less",
+            "medium",
+            "more"
+        ],
+        "fadeIn": 4000,
+        "fadeOut": 4000,
+        "fadeOverlap": 2800,
+        "isWip": false,
+        "artistImageUrl": "https://cdn-images.focusatwill.com/channel_icons/default_artist.svg",
+        "backgroundImageUrl": "https://cdn-images.focusatwill.com/channel_icons/staging/2153/f10f11bb-7364-4c14-80c7-914943646895.jpg",
+        "desktopBackgroundImageUrl": "https://cdn-images.focusatwill.com/channel_icons/staging/2153/36387f65-1060-4c88-8578-b128d10c58b3.jpg",
+        "iconUrl": "https://cdn-images.focusatwill.com/channel_icons/staging/2153/52190245-dfd1-4853-8906-b6fae9460c9d.svg"
+    },
+    {
+        "id": 2613,
+        "artistName": null,
+        "artistSiteUrl": null,
+        "description": "World, ethnic • Unique, delicate, inviting African harp recordings. 75 min loop.",
+        "name": "Kora",
+        "energyLevelLabels": [
+            "low",
+            "medium",
+            "high"
+        ],
+        "fadeIn": 3000,
+        "fadeOut": 3000,
+        "fadeOverlap": 2500,
+        "isWip": false,
+        "artistImageUrl": "https://cdn-images.focusatwill.com/channel_icons/default_artist.svg",
+        "backgroundImageUrl": "https://cdn-images.focusatwill.com/channel_icons/staging/2613/671a4230-5662-489c-8733-3fba4a8d6086.jpg",
+        "desktopBackgroundImageUrl": "https://cdn-images.focusatwill.com/channel_icons/staging/2613/85c21496-417d-429d-b3b3-3b68d18e12aa.jpg",
+        "iconUrl": "https://cdn-images.focusatwill.com/channel_icons/staging/2613/67f1a06b-2dab-4789-9cf9-4ec45a38fe75.svg"
+    },
+    {
+        "id": 3134,
+        "artistName": "",
+        "artistSiteUrl": "",
+        "description": "The comforting rumble of engines idling.",
+        "name": "Engines",
+        "energyLevelLabels": [
+            "Low",
+            "Medium",
+            "High"
+        ],
+        "fadeIn": 3000,
+        "fadeOut": 3500,
+        "fadeOverlap": 2800,
+        "isWip": false,
+        "artistImageUrl": "https://cdn-images.focusatwill.com/channel_icons/default_artist.svg",
+        "backgroundImageUrl": "https://cdn-images.focusatwill.com/channel_icons/production/3134/88e71df2-d044-4cf5-a958-e685bd58f0a4.jpg",
+        "desktopBackgroundImageUrl": "https://cdn-images.focusatwill.com/channel_icons/production/3134/6c406b7c-d8ba-4931-bd96-f30eaae1be03.jpg",
+        "iconUrl": "https://cdn-images.focusatwill.com/channel_icons/default_channel.svg"
+    },
+    {
+        "id": 3124,
+        "artistName": "",
+        "artistSiteUrl": "",
+        "description": "Let the persistent rattle and hum of these machines keep your focus locked down.",
+        "name": "Machines",
+        "energyLevelLabels": [
+            "Low",
+            "Medium",
+            "High"
+        ],
+        "fadeIn": 3000,
+        "fadeOut": 3500,
+        "fadeOverlap": 2800,
+        "isWip": false,
+        "artistImageUrl": "https://cdn-images.focusatwill.com/channel_icons/default_artist.svg",
+        "backgroundImageUrl": "https://cdn-images.focusatwill.com/channel_icons/production/3124/9225c42a-d43b-4115-a354-92d8c83d317c.jpg",
+        "desktopBackgroundImageUrl": "https://cdn-images.focusatwill.com/channel_icons/production/3124/620a740e-14e3-44fb-bc35-b915e3814bc3.jpg",
+        "iconUrl": "https://cdn-images.focusatwill.com/channel_icons/default_channel.svg"
+    },
+    {
+        "id": 3114,
+        "artistName": "",
+        "artistSiteUrl": "",
+        "description": "Brown noise. Pink noise. White noise. Focus. Focus. Focus.",
+        "name": "Noise",
+        "energyLevelLabels": [
+            "Brown",
+            "Pink",
+            "White"
+        ],
+        "fadeIn": 3000,
+        "fadeOut": 3500,
+        "fadeOverlap": 2800,
+        "isWip": false,
+        "artistImageUrl": "https://cdn-images.focusatwill.com/channel_icons/default_artist.svg",
+        "backgroundImageUrl": "https://cdn-images.focusatwill.com/channel_icons/production/3114/6a955261-fdc7-40d9-a677-07e1dc8b3ad1.jpg",
+        "desktopBackgroundImageUrl": "https://cdn-images.focusatwill.com/channel_icons/production/3114/ca967dfd-3a1e-4201-8a36-6024be93e3d7.jpg",
+        "iconUrl": "https://cdn-images.focusatwill.com/channel_icons/default_channel.svg"
+    },
+    {
+        "id": 2513,
+        "artistName": null,
+        "artistSiteUrl": null,
+        "description": "Soundscape, FX • Strap in to the focus zone. Plane engines at 30,000 feet. Binaural surround.",
+        "name": "Propeller Drone",
+        "energyLevelLabels": [
+            "Level 1",
+            "Level 2",
+            "level3"
+        ],
+        "fadeIn": 3000,
+        "fadeOut": 3000,
+        "fadeOverlap": 2500,
+        "isWip": false,
+        "artistImageUrl": "https://cdn-images.focusatwill.com/channel_icons/default_artist.svg",
+        "backgroundImageUrl": "https://cdn-images.focusatwill.com/channel_icons/staging/2513/9a57bf7e-3582-4cc8-87d6-49bb98d79a28.jpg",
+        "desktopBackgroundImageUrl": "https://cdn-images.focusatwill.com/channel_icons/staging/2513/1f9b9122-e987-4b5a-992d-196aaad316d6.jpg",
+        "iconUrl": "https://cdn-images.focusatwill.com/channel_icons/staging/2513/7df8672e-5a57-4395-9da9-b3f24a1fd569.svg"
+    },
+    {
+        "id": 2503,
+        "artistName": null,
+        "artistSiteUrl": null,
+        "description": "Electronic, sci-fi • Stretch out with future synth tones and textures. Micro tunings.",
+        "name": "NeuroSpace",
+        "energyLevelLabels": [
+            "slower",
+            "medium",
+            "faster"
+        ],
+        "fadeIn": 3000,
+        "fadeOut": 3000,
+        "fadeOverlap": 2500,
+        "isWip": false,
+        "artistImageUrl": "https://cdn-images.focusatwill.com/channel_icons/default_artist.svg",
+        "backgroundImageUrl": "https://cdn-images.focusatwill.com/channel_icons/staging/2503/167b5510-b6f3-4854-bdc4-0e917f261da5.jpg",
+        "desktopBackgroundImageUrl": "https://cdn-images.focusatwill.com/channel_icons/staging/2503/1b25ccca-0e65-4950-acbe-36c3391f2792.jpg",
+        "iconUrl": "https://cdn-images.focusatwill.com/channel_icons/staging/2503/13f73e10-8a1e-46ab-9965-39d3fc3cdba3.svg"
+    },
+    {
+        "id": 2533,
+        "artistName": null,
+        "artistSiteUrl": null,
+        "description": "Ambience, people • Our local coffee shop with binaural entrainment",
+        "name": "Espresso",
+        "energyLevelLabels": [
+            "single",
+            "double",
+            "triple"
+        ],
+        "fadeIn": 3000,
+        "fadeOut": 2500,
+        "fadeOverlap": 3000,
+        "isWip": false,
+        "artistImageUrl": "https://cdn-images.focusatwill.com/channel_icons/default_artist.svg",
+        "backgroundImageUrl": "https://cdn-images.focusatwill.com/channel_icons/staging/2533/fe2433a9-0f5d-4ca6-a7bf-7bffdc2b6b5c.jpg",
+        "desktopBackgroundImageUrl": "https://cdn-images.focusatwill.com/channel_icons/staging/2533/5a58465f-74b4-46c4-b218-098243779161.jpg",
+        "iconUrl": "https://cdn-images.focusatwill.com/channel_icons/staging/2533/16a68316-9ef7-4ab9-9228-a7a36fac0969.svg"
+    },
+    {
+        "id": 2543,
+        "artistName": null,
+        "artistSiteUrl": null,
+        "description": "Ambience, people • Our other local coffee shop with binaural entrainment",
+        "name": "Cappuccino",
+        "energyLevelLabels": [
+            "single",
+            "double",
+            "triple"
+        ],
+        "fadeIn": 3000,
+        "fadeOut": 3000,
+        "fadeOverlap": 2500,
+        "isWip": false,
+        "artistImageUrl": "https://cdn-images.focusatwill.com/channel_icons/default_artist.svg",
+        "backgroundImageUrl": "https://cdn-images.focusatwill.com/channel_icons/staging/2543/f861c833-9ee1-460d-8930-c960baec20a0.jpg",
+        "desktopBackgroundImageUrl": "https://cdn-images.focusatwill.com/channel_icons/staging/2543/919c073b-9fb1-4d00-8c58-5cff1fb4bd79.jpg",
+        "iconUrl": "https://cdn-images.focusatwill.com/channel_icons/staging/2543/555ee7ec-ae67-49e3-b2da-44f33c8fc6e8.svg"
+    },
+    {
+        "id": 2573,
+        "artistName": null,
+        "artistSiteUrl": null,
+        "description": "Just drums • Find your rhythm with no tuned instrument distraction. Dial it in.",
+        "name": "Drums",
+        "energyLevelLabels": [
+            "slow",
+            "medium",
+            "fast"
+        ],
+        "fadeIn": 3000,
+        "fadeOut": 3000,
+        "fadeOverlap": 2500,
+        "isWip": false,
+        "artistImageUrl": "https://cdn-images.focusatwill.com/channel_icons/default_artist.svg",
+        "backgroundImageUrl": "https://cdn-images.focusatwill.com/channel_icons/staging/2573/a1500fba-b510-473f-b01b-7da2eaf052f5.jpg",
+        "desktopBackgroundImageUrl": "https://cdn-images.focusatwill.com/channel_icons/staging/2573/e1de9ac5-8354-453e-af75-0af483e1c651.jpg",
+        "iconUrl": "https://cdn-images.focusatwill.com/channel_icons/staging/2573/14ee5318-4c63-4af0-b933-81c7ee4e4ead.svg"
+    },
+    {
+        "id": 2583,
+        "artistName": null,
+        "artistSiteUrl": null,
+        "description": "Just drums • Turbo faster tempo! Find your rhythm right here right now. Dial it right in.",
+        "name": "Turbo Drums",
+        "energyLevelLabels": [
+            "fast",
+            "faster",
+            "faaaster"
+        ],
+        "fadeIn": 3000,
+        "fadeOut": 3000,
+        "fadeOverlap": 2500,
+        "isWip": false,
+        "artistImageUrl": "https://cdn-images.focusatwill.com/channel_icons/default_artist.svg",
+        "backgroundImageUrl": "https://cdn-images.focusatwill.com/channel_icons/staging/2583/6d138256-f49d-4e7c-a9c9-6f21231d555d.jpg",
+        "desktopBackgroundImageUrl": "https://cdn-images.focusatwill.com/channel_icons/staging/2583/533e4bba-9330-472c-9089-eaae6bc3070e.jpg",
+        "iconUrl": "https://cdn-images.focusatwill.com/channel_icons/staging/2583/404ce140-636f-43ac-84dd-f7563655af86.svg"
+    },
+    {
+        "id": 2553,
+        "artistName": null,
+        "artistSiteUrl": null,
+        "description": "Drums, entrainment: Find your rhythm with no tuned instrument distraction.",
+        "name": "HumDrum",
+        "energyLevelLabels": [
+            "slow",
+            "medium",
+            "fast"
+        ],
+        "fadeIn": 3000,
+        "fadeOut": 3000,
+        "fadeOverlap": 2500,
+        "isWip": false,
+        "artistImageUrl": "https://cdn-images.focusatwill.com/channel_icons/default_artist.svg",
+        "backgroundImageUrl": "https://cdn-images.focusatwill.com/channel_icons/staging/2553/fa4b8b6d-a9b9-43e5-a7f4-ada799fc5ffe.jpg",
+        "desktopBackgroundImageUrl": "https://cdn-images.focusatwill.com/channel_icons/staging/2553/18d2d8fb-bbaa-4636-a904-4ffb0d2a0a0c.jpg",
+        "iconUrl": "https://cdn-images.focusatwill.com/channel_icons/staging/2553/8733c531-7bab-4b99-8061-2a783f088215.svg"
+    },
+    {
+        "id": 2563,
+        "artistName": null,
+        "artistSiteUrl": null,
+        "description": "Drums, entrainment • Faster tempo! Find your rhythm with no tuned instrument distraction.",
+        "name": "HumDrum Turbo",
+        "energyLevelLabels": [
+            "fast",
+            "faster",
+            "faaaster"
+        ],
+        "fadeIn": 3000,
+        "fadeOut": 3000,
+        "fadeOverlap": 2500,
+        "isWip": false,
+        "artistImageUrl": "https://cdn-images.focusatwill.com/channel_icons/default_artist.svg",
+        "backgroundImageUrl": "https://cdn-images.focusatwill.com/channel_icons/staging/2563/31f84381-8346-44c3-90f3-7129763d5206.jpg",
+        "desktopBackgroundImageUrl": "https://cdn-images.focusatwill.com/channel_icons/staging/2563/498ea3f8-9c97-40a3-8318-547e040510f9.jpg",
+        "iconUrl": "https://cdn-images.focusatwill.com/channel_icons/staging/2563/8977a0c4-1dff-42b5-b7b5-fb113ca910f2.svg"
+    },
+    {
+        "id": 2593,
+        "artistName": null,
+        "artistSiteUrl": null,
+        "description": "Percussion, entrainment • Live hand drums. Find your rhythm with organic isochronic beats.",
+        "name": "Bongo Flow",
+        "energyLevelLabels": [
+            "slow",
+            "medium",
+            "fast"
+        ],
+        "fadeIn": 3000,
+        "fadeOut": 3000,
+        "fadeOverlap": 2500,
+        "isWip": false,
+        "artistImageUrl": "https://cdn-images.focusatwill.com/channel_icons/default_artist.svg",
+        "backgroundImageUrl": "https://cdn-images.focusatwill.com/channel_icons/staging/2593/a36318d1-12d5-4bdd-9a51-73069e04b8d9.jpg",
+        "desktopBackgroundImageUrl": "https://cdn-images.focusatwill.com/channel_icons/staging/2593/ca144a4c-a38d-44bb-941a-1d843cd5cad3.jpg",
+        "iconUrl": "https://cdn-images.focusatwill.com/channel_icons/staging/2593/057e6f72-9ef6-4a9e-b9b1-3070c3eb483d.svg"
+    },
+    {
+        "id": 2603,
+        "artistName": null,
+        "artistSiteUrl": null,
+        "description": "Percussion, entrainment • Turbo fast live hand drums. Find your rhythm with organic isochronic beats.",
+        "name": "Bongo Turbo",
+        "energyLevelLabels": [
+            "fast",
+            "faster",
+            "faaaster"
+        ],
+        "fadeIn": 3000,
+        "fadeOut": 3000,
+        "fadeOverlap": 2500,
+        "isWip": false,
+        "artistImageUrl": "https://cdn-images.focusatwill.com/channel_icons/default_artist.svg",
+        "backgroundImageUrl": "https://cdn-images.focusatwill.com/channel_icons/staging/2603/2feb66f9-bcbd-4e2b-ae08-49d658d0ecad.jpg",
+        "desktopBackgroundImageUrl": "https://cdn-images.focusatwill.com/channel_icons/staging/2603/e6a21b67-a4ef-41f8-95ce-f51fb077d70f.jpg",
+        "iconUrl": "https://cdn-images.focusatwill.com/channel_icons/staging/2603/750e5515-7d61-40f5-bd31-49b633180bf9.svg"
+    },
+    {
+        "id": 3023,
+        "artistName": "Will Henshall",
+        "artistSiteUrl": "https://artists.focusatwill.com/naturebeat-in-app-about/",
+        "description": "EDM, hybrid • Deep Electronica wrapped in rich nature soundscapes. Custom engineered for focus.",
+        "name": "NatureBeat",
+        "energyLevelLabels": [
+            "Level 1",
+            "Level 2",
+            "Level 3"
+        ],
+        "fadeIn": 2800,
+        "fadeOut": 2000,
+        "fadeOverlap": 1700,
+        "isWip": false,
+        "artistImageUrl": "https://cdn-images.focusatwill.com/channel_icons/staging/3023/3426e535-d257-4c51-8cb6-20ad8435e5f7.jpg",
+        "backgroundImageUrl": "https://cdn-images.focusatwill.com/channel_icons/staging/3023/6209eedc-e15a-4b09-8667-d410a09650e2.jpg",
+        "desktopBackgroundImageUrl": "https://cdn-images.focusatwill.com/channel_icons/staging/3023/740ce1a0-19d2-454d-b3a4-5d3432919bef.jpg",
+        "iconUrl": "https://cdn-images.focusatwill.com/channel_icons/staging/3023/ef9f3a9e-d267-4778-98b5-e3241e610205.svg"
+    },
+    {
+        "id": 3164,
+        "artistName": "Pure Suburbia",
+        "artistSiteUrl": "",
+        "description": "80s Dance Rewind • A modern take on disco beats, nostalgic synths,  and funky guitars straight out of the '80s.",
+        "name": "Neon 80s",
+        "energyLevelLabels": [
+            "Nice",
+            "Wicked",
+            "Yes Mate"
+        ],
+        "fadeIn": 4200,
+        "fadeOut": 4200,
+        "fadeOverlap": 4200,
+        "isWip": false,
+        "artistImageUrl": "https://cdn-images.focusatwill.com/channel_icons/production/3164/0ee26b84-6503-487d-9f10-ee33942044c5.png",
+        "backgroundImageUrl": "https://cdn-images.focusatwill.com/channel_icons/production/3164/fce20632-1485-41b1-abd7-894e39e934f4.png",
+        "desktopBackgroundImageUrl": "https://cdn-images.focusatwill.com/channel_icons/production/3164/840c1d27-3117-4b5c-9a40-d0c306d5320a.png",
+        "iconUrl": "https://cdn-images.focusatwill.com/channel_icons/default_channel.svg"
+    },
+    {
+        "id": 3084,
+        "artistName": "Eric Monkhouse",
+        "artistSiteUrl": "https://www.ericmonkhouse.com",
+        "description": "Ketamine Flow • “Music is the language of the spirit.” Kahlil Gibran",
+        "name": "Evolve",
+        "energyLevelLabels": [
+            "Quiet",
+            "Medium",
+            "Loud"
+        ],
+        "fadeIn": 3000,
+        "fadeOut": 3500,
+        "fadeOverlap": 2800,
+        "isWip": false,
+        "artistImageUrl": "https://cdn-images.focusatwill.com/channel_icons/production/3084/bf7fbf67-d3bc-40f6-baa3-c551817969eb.jpg",
+        "backgroundImageUrl": "https://cdn-images.focusatwill.com/channel_icons/production/3084/2cb2aa65-211a-47c1-b26c-fa3e699a347c.jpg",
+        "desktopBackgroundImageUrl": "https://cdn-images.focusatwill.com/channel_icons/production/3084/aa5740a0-2a1c-494a-958e-e210d8560254.jpg",
+        "iconUrl": "https://cdn-images.focusatwill.com/channel_icons/default_channel.svg"
+    },
+    {
+        "id": 3064,
+        "artistName": "DJ IBG",
+        "artistSiteUrl": "https://artists.focusatwill.com/a-d-d-j-in-app-about/",
+        "description": "Gabba Hardcore • Super fast, intense industrial techno. ADD...? ADHD...? Check this out!",
+        "name": "A. D. D. J.",
+        "energyLevelLabels": [
+            "FAST",
+            "VERY FAST",
+            "BONKERS"
+        ],
+        "fadeIn": 3000,
+        "fadeOut": 3500,
+        "fadeOverlap": 2800,
+        "isWip": false,
+        "artistImageUrl": "https://cdn-images.focusatwill.com/channel_icons/production/3064/e1d870a5-1656-4b3f-8d3f-efc9c9fc8953.png",
+        "backgroundImageUrl": "https://cdn-images.focusatwill.com/channel_icons/default_background.png",
+        "desktopBackgroundImageUrl": "https://cdn-images.focusatwill.com/channel_icons/default_background.png",
+        "iconUrl": "https://cdn-images.focusatwill.com/channel_icons/production/3064/f126893e-68eb-4e85-bb2e-f1e8f45becdf.svg"
+    },
+    {
+        "id": 3054,
+        "artistName": "The Grid",
+        "artistSiteUrl": "https://artists.focusatwill.com/the-grid/",
+        "description": "Future Trance - Hypnotic, repetitive four to the floor 16th note beats for your subconscious",
+        "name": "The Grid",
+        "energyLevelLabels": [
+            "Level 1",
+            "Level 2",
+            "Level 3"
+        ],
+        "fadeIn": 3000,
+        "fadeOut": 3500,
+        "fadeOverlap": 2800,
+        "isWip": false,
+        "artistImageUrl": "https://cdn-images.focusatwill.com/channel_icons/production/3054/e386d0af-e750-4742-80d4-29183afe0571.jpg",
+        "backgroundImageUrl": "https://cdn-images.focusatwill.com/channel_icons/production/3054/6e4fbe6b-a9f1-4bb1-8810-ca95e9b1506d.jpg",
+        "desktopBackgroundImageUrl": "https://cdn-images.focusatwill.com/channel_icons/production/3054/95bd2e81-bd63-4bd9-8e4e-8e866f88b0f5.jpg",
+        "iconUrl": "https://cdn-images.focusatwill.com/channel_icons/default_channel.svg"
+    },
+    {
+        "id": 3053,
+        "artistName": "Jason Campbell",
+        "artistSiteUrl": "https://artists.focusatwill.com/zen-piano-app-about/",
+        "description": "Piano, meditation • The focus magic happens in the space between the notes.",
+        "name": "Zen Piano",
+        "energyLevelLabels": [
+            "Peace",
+            "Zen",
+            "Galactic"
+        ],
+        "fadeIn": 0,
+        "fadeOut": 0,
+        "fadeOverlap": 0,
+        "isWip": false,
+        "artistImageUrl": "https://cdn-images.focusatwill.com/channel_icons/staging/3053/efe07e8b-d5a2-4f78-a200-0467433e68c2.jpg",
+        "backgroundImageUrl": "https://cdn-images.focusatwill.com/channel_icons/staging/3053/1d510f79-c8a2-4c15-984c-175463d619e0.jpg",
+        "desktopBackgroundImageUrl": "https://cdn-images.focusatwill.com/channel_icons/staging/3053/f8e77f26-5489-484d-8cf7-53f5eee97b8b.jpg",
+        "iconUrl": "https://cdn-images.focusatwill.com/channel_icons/staging/3053/18bfc08c-5ff6-4d1f-879d-a03b1ab33429.svg"
+    }
+]
