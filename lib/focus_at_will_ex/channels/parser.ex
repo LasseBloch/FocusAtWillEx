@@ -1,13 +1,14 @@
 defmodule FocusAtWillEx.Channels.Parser do
-  alias FocusAtWillEx.Channels.Channel
-
   @moduledoc """
   Deserialize a JSON string to a Channel sruct
   """
 
+  alias FocusAtWillEx.Channels.Channel
+
   @doc ~S"""
   Create channel structs from a string
   """
+  @spec parse_json(String.t()) :: %{integer() => Channel.t()}
   def parse_json(json_string) do
     json_string
     |> Jason.decode!()
@@ -26,6 +27,7 @@ defmodule FocusAtWillEx.Channels.Parser do
     # Create Channel struct with transformed data
     channel = %Channel{
       name: name,
+      id: id,
       description: description,
       energy_levels: create_energy_levels_map(energy_labels)
     }
@@ -36,7 +38,7 @@ defmodule FocusAtWillEx.Channels.Parser do
 
   defp create_energy_levels_map(labels) do
     labels
-    |> Enum.with_index(1)
+    |> Enum.with_index(-1)
     |> Map.new(fn {label, index} -> {index, label} end)
   end
 end

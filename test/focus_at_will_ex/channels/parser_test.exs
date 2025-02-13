@@ -1,6 +1,7 @@
 defmodule FocusAtWillEx.Channels.ParserTest do
-  alias FocusAtWillEx.Channels.Parser
   use ExUnit.Case, async: true
+
+  alias FocusAtWillEx.Channels.Parser
 
   test "happy part" do
     string =
@@ -32,9 +33,9 @@ defmodule FocusAtWillEx.Channels.ParserTest do
     expected = %{
       3154 => %FocusAtWillEx.Channels.Channel{
         name: "Jambient Jungle",
-        description:
-          "Nostalgic, ambient jungle. Old school meets new school. Exclusive new channel.",
-        energy_levels: %{1 => "Slower", 2 => "Classic", 3 => "Xtra"}
+        id: 3154,
+        description: "Nostalgic, ambient jungle. Old school meets new school. Exclusive new channel.",
+        energy_levels: %{-1 => "Slower", 0 => "Classic", 1 => "Xtra"}
       }
     }
 

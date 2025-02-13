@@ -22,7 +22,11 @@ defmodule FocusAtWillEx.MixProject do
   defp deps do
     [
       {:jason, "~> 1.4"},
-      {:styler, "~> 1.2", only: [:dev, :test], runtime: false}
+      {:styler, "~> 1.2", only: [:dev, :test], runtime: false},
+      {:dialyxir, "~> 1.4", only: [:dev, :test], runtime: false},
+      {:credo, "~> 1.7", only: [:dev, :test], runtime: false},
+      {:mox, "~> 1.0", only: :test},
+      {:req, "~> 0.5.0"}
     ]
   end
 end
