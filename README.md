@@ -1,7 +1,5 @@
 # FocusAtWillEx
 
-**TODO: Add description**
-
 An unofficial API client for Focus@Will.com 
 
 ## Installation

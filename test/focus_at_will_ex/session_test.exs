@@ -18,7 +18,7 @@ defmodule FocusAtWillEx.SessionTest do
          }}
       end)
 
-      session = Session.new("foo@bar.com", "password")
+      {:ok, session} = Session.new("foo@bar.com", "password")
       assert session.token == "secrect_token"
       assert session.user == %{"foo" => "bar"}
     end

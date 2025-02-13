@@ -16,7 +16,7 @@ defmodule FocusAtWillEx.Session do
   @spec new(String.t(), String.t()) :: {:ok, t()} | {:error, Client.Error} | {:error, String.t()}
   def new(email, password) do
     case authenticate(email, password) do
-      {:ok, {token, user}} -> %__MODULE__{token: token, user: user}
+      {:ok, {token, user}} -> {:ok, %__MODULE__{token: token, user: user}}
       {:error, reason} -> {:error, reason}
     end
   end
