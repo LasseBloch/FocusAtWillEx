@@ -8,7 +8,10 @@ defmodule FocusAtWillEx.MixProject do
       elixir: "~> 1.14",
       start_permanent: Mix.env() == :prod,
       deps: deps(),
-      aliases: aliases()
+      aliases: aliases(),
+      description: description(),
+      package: package(),
+      source_url: "https://github.com/LasseBloch/FocusAtWillEx"
     ]
   end
 
@@ -26,6 +29,17 @@ defmodule FocusAtWillEx.MixProject do
         "credo",
         "dialyzer"
       ]
+    ]
+  end
+
+  defp description do
+    "An unofficial API client for Focusatwill.com."
+  end
+
+  defp package do
+    [
+      licenses: ["MIT"],
+      links: %{"GitHub" => "https://github.com/LasseBloch/FocusAtWillEx"}
     ]
   end
 
