@@ -35,6 +35,7 @@ defmodule FocusAtWillEx.MixProject do
       {:jason, "~> 1.4"},
       {:styler, "~> 1.2", only: [:dev, :test], runtime: false},
       {:dialyxir, "~> 1.4", only: [:dev, :test], runtime: false},
+      {:ex_doc, "~> 0.14", only: :dev, runtime: false},
       {:credo, "~> 1.7", only: [:dev, :test], runtime: false},
       {:mox, "~> 1.0", only: :test},
       {:req, "~> 0.5.0"}
